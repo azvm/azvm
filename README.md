@@ -2,6 +2,8 @@
 
 My name is Mikhail and I am a .NET software developer
 
+About me:
+
 - Living in Belarus :belarus:
 - Working at [Nextsoft](https://www.nextsoft.by) ([Elinext](https://www.elinext.com) affiliate)
 - [My LinkedIn profile](https://www.linkedin.com/in/azvm)
