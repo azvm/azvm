@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Mikhail and I am a .NET developer located in Belarus
+My name is Mikhail and I am a .NET software developer
 
 - [LinkedIn](https://www.linkedin.com/in/azvm)
 
