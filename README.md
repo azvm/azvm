@@ -10,4 +10,4 @@ About me:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=azvm&custom_title=My%20GitHub%20Stats&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=50,f43b47,453a94&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Codewars](https://www.codewars.com/users/azvm/badges/large)](https://www.codewars.com)
+[![Codewars](https://www.codewars.com/users/azvm/badges/large)](https://www.codewars.com/users/azvm)
