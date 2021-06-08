@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Mikhail and I am a .NET software developer
+My name is Mikhail and I am a .NET developer
 
 About me:
 
